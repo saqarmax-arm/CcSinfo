@@ -1,5 +1,5 @@
-# qtuminfo
+# CcSinfo
 
-[API documentation](https://github.com/qtumproject/qtuminfo-api/blob/master/README.md)
+[API documentation](https://github.com/saqarmax-arm/CcSinfo-api/blob/master/README.md)
 
-[Deploy documentation](https://github.com/qtumproject/qtuminfo/blob/master/doc/deploy.md)
+[Deploy documentation](https://github.com/saqarmax-arm/CcSinfo/blob/master/doc/deploy.md)

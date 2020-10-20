@@ -1,27 +1,27 @@
 {
-  "name": "qtuminfo",
+  "name": "CcSinfo",
   "private": true,
   "version": "0.0.1",
   "description": "",
   "scripts": {
-    "dev": "bin/qtuminfo-node.js start",
+    "dev": "bin/CcSinfo-node.js start",
     "lint": "eslint --ext .js . --ignore-path .gitignore"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qtumproject/qtuminfo.git"
+    "url": "git+https://github.com/saqarmax-arm/CcSinfo.git"
   },
   "keywords": [
-    "qtum",
-    "qtuminfo",
-    "qtum explorer"
+    "CcS",
+    "CcSinfo",
+    "CcS explorer"
   ],
-  "author": "QTUM <foundation@qtum.org>",
+  "author": "CcS <foundation@CcS.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qtumproject/qtuminfo/issues"
+    "url": "https://github.com/saqarmax-arm/CcSinfo/issues"
   },
-  "homepage": "https://github.com/qtumproject/qtuminfo#readme",
+  "homepage": "https://github.com/saqarmax-arm/CcSinfo#readme",
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "eslint": "^6.4.0"
